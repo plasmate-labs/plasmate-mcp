@@ -1,8 +1,17 @@
 {
   "name": "plasmate-mcp",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "MCP server for Plasmate - the browser engine for AI agents. Use with Claude Code, Claude Desktop, Cursor, Windsurf.",
-  "keywords": ["mcp", "plasmate", "browser", "ai-agents", "semantic-web", "som", "claude", "cursor"],
+  "keywords": [
+    "mcp",
+    "plasmate",
+    "browser",
+    "ai-agents",
+    "semantic-web",
+    "som",
+    "claude",
+    "cursor"
+  ],
   "bin": {
     "plasmate-mcp": "./bin/plasmate-mcp.mjs"
   },
@@ -15,5 +24,6 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "mcpName": "io.github.plasmate-labs/plasmate"
 }
