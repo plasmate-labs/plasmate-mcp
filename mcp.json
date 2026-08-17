@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "plasmate": {
+      "command": "npx",
+      "args": ["-y", "plasmate-mcp"]
+    }
+  }
+}
