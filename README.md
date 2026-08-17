@@ -62,6 +62,8 @@ Add to Cursor's MCP settings:
 }
 ```
 
+This repo is also a Cursor plugin (`.cursor-plugin/plugin.json` + `mcp.json`). Test locally by copying it to `~/.cursor/plugins/local/plasmate`. Submit the public repo at [cursor.com/marketplace/publish](https://cursor.com/marketplace/publish).
+
 ## Available Tools
 
 Once connected, your AI gets these tools:
